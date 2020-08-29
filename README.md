@@ -1,1 +1,1 @@
-# CobaltStrikWindowsDefenderBypass
+# CobaltStrikeWindowsDefenderBypass
